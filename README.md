@@ -27,3 +27,19 @@ A Website Dedicated to Art & Craft Lovers!
 - Sweetalert2: To implement Designed Alert Box
 - React-Toastify: To Show Toast
 - React-Icons: To Show Icons
+
+## To Run the Project:
+- Clone this Repository
+- Update the ENV Variables
+- Run on Terminal from the Project Folders:
+
+For client-side:
+```
+npm install
+npm run dev
+```
+For server-side:
+```
+npm install
+node index.js
+```
